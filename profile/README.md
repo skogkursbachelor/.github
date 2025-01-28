@@ -1,5 +1,10 @@
 # Lumber transport - development of new tools for varying weather and road conditions
 
+## Contact
+
+- [Erik Bjørnsen](mailto:erbj@stud.ntnu.no)
+- [Simon Houmb](mailto:simonhou@stud.ntnu.no)
+
 <!--
 
 **Here are some ideas to get you started:**
