@@ -2,8 +2,8 @@
 
 ## Contact
 
-- 🤓☝️[Erik Bjørnsen](mailto:erbj@stud.ntnu.no)
-- 💪🏻🥇[Simon Houmb](mailto:simonhou@stud.ntnu.no)
+- 🧌 [Erik Bjørnsen](mailto:erbj@stud.ntnu.no) 🚀
+- 💪🏻 [Simon Houmb](mailto:simonhou@stud.ntnu.no) 🥇
 
 <!--
 
